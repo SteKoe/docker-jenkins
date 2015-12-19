@@ -10,3 +10,5 @@ sonar
 jobConfigHistory
 multiple-scms
 nodejs
+gravatar
+periodicbackup
