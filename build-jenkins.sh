@@ -1,0 +1,1 @@
+docker build -t stekoe.de/jenkins .
